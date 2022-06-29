@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\eclipseproject\maventest\.metadata\.plugins\org.eclipse.jdt.core
+2474065099.index
+821221346.index
+3464526289.index
+3325926853.index
+3887002935.index
