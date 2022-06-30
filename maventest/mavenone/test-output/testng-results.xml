@@ -2,20 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-29T10:06:48Z" name="RegistLogin" finished-at="2022-06-29T10:06:48Z" duration-ms="26">
+  <suite started-at="2022-06-30T08:39:37Z" name="Default suite" finished-at="2022-06-30T08:39:37Z" duration-ms="33">
     <groups>
     </groups>
-    <test started-at="2022-06-29T10:06:48Z" name="newTest" finished-at="2022-06-29T10:06:48Z" duration-ms="26">
+    <test started-at="2022-06-30T08:39:37Z" name="Default test" finished-at="2022-06-30T08:39:37Z" duration-ms="33">
       <class name="mavenone.NewTest">
-        <test-method signature="f()[pri:0, instance:mavenone.NewTest@5c1a8622]" started-at="2022-06-29T10:06:48Z" name="f" finished-at="2022-06-29T10:06:48Z" duration-ms="10" status="PASS">
+        <test-method signature="f()[pri:0, instance:mavenone.NewTest@691a7f8f]" started-at="2022-06-30T08:39:37Z" name="f" finished-at="2022-06-30T08:39:37Z" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- mavenone.NewTest -->
-    </test> <!-- newTest -->
-  </suite> <!-- RegistLogin -->
-  <suite started-at="2022-06-29T10:06:49Z" name="more suites testing" finished-at="2022-06-29T10:06:49Z" duration-ms="0">
-    <groups>
-    </groups>
-  </suite> <!-- more suites testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
